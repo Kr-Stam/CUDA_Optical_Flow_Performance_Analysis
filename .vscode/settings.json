@@ -1,0 +1,30 @@
+{
+    "cmake.sourceDirectory": "C:/Users/Kiko/Desktop/repos/CUDA_Optical_Flow_Performance_Analysis/CUDA_Optical_Flow_Performance_Analysis",
+    "files.associations": {
+        "xstring": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "charconv": "cpp",
+        "format": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "xhash": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xloctime": "cpp",
+        "vector": "cpp",
+        "xutility": "cpp",
+        "atomic": "cpp",
+        "cmath": "cpp",
+        "chrono": "cpp",
+        "forward_list": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "xtree": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
